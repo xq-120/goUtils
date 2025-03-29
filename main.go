@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	goUtils "github.com/xq-120/goUtils/pkg/file" // 如果你使用的是模块化的方式
+	goUtils "github.com/xq-120/goUtils/pkg"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-package goutils
+package pkg
 
 type Stack[T any] struct {
 	elements []T
